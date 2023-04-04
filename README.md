@@ -91,7 +91,7 @@ I am also passionate about continuously improving my skills and staying up-to-da
 </p>
 
 <a href="https://github.com/OmBhatt24/github-readme-stats">
-  <img alt="shyam-206's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-206&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="shyam-206's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhatt24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <hr>
 
