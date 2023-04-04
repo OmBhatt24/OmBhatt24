@@ -41,10 +41,7 @@ I am also passionate about continuously improving my skills and staying up-to-da
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Om Bhatt" height="30" width="40" />
   </a>
  
- <!-- Twitter-->
-  <a href="https://twitter.com/shyam_dhokiya" target="-blank">
-    <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" alt="Shyam Dhokiya" height="40" widht="40"/>
-  </a>  
+ 
   <a href="https://leetcode.com/OmBhatt24" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Om Bhatt" height="30" width="40" />
  </a>
@@ -101,10 +98,10 @@ I am also passionate about continuously improving my skills and staying up-to-da
 ### ❤ Views and Followers
 <br>
 <p>
- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+ <a href="https://github.com/OmBhatt24/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=OmBhatt24">
  </a>
- <a href="https://github.com/KHUNTPRIYANSH?tab=followers">
+ <a href="https://github.com/OmBhatt24?tab=followers">
   <img src="https://img.shields.io/github/followers/OmBhatt24?label=Followers&style=social" alt="GitHub Badge">
  </a>
 </p>
